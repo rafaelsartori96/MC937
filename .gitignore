@@ -1,0 +1,11 @@
+# Ignoramos todos os arquivos sem extensão
+*
+!*/
+!*.*
+
+# Ignoramos logs e arquivos temporários de LaTeX
+*.log
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz
